@@ -24,16 +24,13 @@ Security researcher and full-stack developer focused on vulnerability discovery,
 
 ---
 
-## Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [BugPilot AI](https://github.com/l3tchupkt/BugPilot-Ai) | Autonomous AI-powered penetration testing assistant | Python, AI |
-| [BugPilot CLI](https://github.com/l3tchupkt/bugpilot-cli) | Terminal security assistant · 50+ pentesting modules | Python, Bash |
-| [FlowPilotAI](https://github.com/l3tchupkt/flowpilotai) | AI-powered workflow automation platform | Node.js, React |
-| [NetSuck8266](https://github.com/l3tchupkt/NetSuck8266) | ESP8266 firmware for WiFi security testing | C++, ESP8266 |
-| [WiFi Ducky](https://github.com/l3tchupkt/WifiDucky) | Wireless keystroke injection via RPi Pico W | C++, MicroPython |
-| [NetSuck WebFlasher](https://github.com/l3tchupkt/netsuck-webflasher) | Browser-based firmware flasher for ESP boards | JavaScript |
+## CVEs
+
+- [CVE-2026-40088](https://github.com/advisories/GHSA-2763-cj5r-c79m) — Critical OS Command Injection in PraisonAI
+- [CVE-2026-5271](https://nvd.nist.gov/vuln/detail/CVE-2026-5271) — Python `pymanager` CWD-Based Module Hijacking
+- [CVE-2026-32420](https://patchstack.com/database/wordpress/plugin/gamipress/vulnerability/wordpress-gamipress-plugin-7-6-6-cross-site-request-forgery-csrf-vulnerability) — CSRF in WordPress GamiPress Plugin
+
 
 ---
 
@@ -64,14 +61,6 @@ Security researcher and full-stack developer focused on vulnerability discovery,
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l3tchupkt&theme=tokyonight" alt="Commit Graph & Profile Details" />
 
 </div>
-
----
-
-## CVEs
-
-- [CVE-2026-40088](https://github.com/advisories/GHSA-2763-cj5r-c79m) — Critical OS Command Injection in PraisonAI
-- [CVE-2026-5271](https://nvd.nist.gov/vuln/detail/CVE-2026-5271) — Python `pymanager` CWD-Based Module Hijacking
-- [CVE-2026-32420](https://patchstack.com/database/wordpress/plugin/gamipress/vulnerability/wordpress-gamipress-plugin-7-6-6-cross-site-request-forgery-csrf-vulnerability) — CSRF in WordPress GamiPress Plugin
 
 ---
 
