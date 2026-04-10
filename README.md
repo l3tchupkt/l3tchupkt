@@ -27,10 +27,10 @@ Security researcher and full-stack developer focused on vulnerability discovery,
 
 ## CVEs
 
+- [CVE-2026-40154](https://github.com/advisories/GHSA-pv9q-275h-rh7x) — Critical Remote Template Injection Leading to RCE in AI Agent Framework
 - [CVE-2026-40088](https://github.com/advisories/GHSA-2763-cj5r-c79m) — Critical OS Command Injection in PraisonAI
 - [CVE-2026-5271](https://nvd.nist.gov/vuln/detail/CVE-2026-5271) — Python `pymanager` CWD-Based Module Hijacking
 - [CVE-2026-32420](https://patchstack.com/database/wordpress/plugin/gamipress/vulnerability/wordpress-gamipress-plugin-7-6-6-cross-site-request-forgery-csrf-vulnerability) — CSRF in WordPress GamiPress Plugin
-
 
 ---
 
