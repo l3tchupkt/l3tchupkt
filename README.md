@@ -4,10 +4,10 @@
 
 **Security Researcher · DevSec Engineer · IoT · AI**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-l3tchupkt.tech-00f3ff?style=flat-square&logo=firefox&logoColor=white)](https://l3tchupkt.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-l3tchupkt.tech-00f3ff?style=flat-square&logo=firefox&logoColor=white)](https://letchupkt.vgrow.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lakshmikanthank-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmikanthank/)
-[![Medium](https://img.shields.io/badge/Medium-@l3tchupkt-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@l3tchupkt)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-l3tchu__pkt-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/l3tchu_pkt)
+[![Medium](https://img.shields.io/badge/Medium-@l3tchupkt-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@letchupkt)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-l3tchu__pkt-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/letchupkt)
 [![Profile Views](https://komarev.com/ghpvc/?username=l3tchupkt&color=00f3ff&style=flat-square&label=Profile+Views)](https://github.com/l3tchupkt)
 
 </div>
@@ -42,7 +42,7 @@ Security researcher and full-stack developer focused on vulnerability discovery,
 
 **Security** · `Burp Suite` `Kali Linux` `Recon` `Exploit Dev`
 
-**Hardware** · `ESP8266` `ESP32` `Raspberry Pi Pico` `Arduino`
+**Hardware** · `ESP8266` `ESP32` `Raspberry Pi ` `Arduino`
 
 ---
 
