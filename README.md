@@ -16,7 +16,7 @@
 
 ## About
 
-Security researcher and full-stack developer focused on vulnerability discovery, AI-powered security tooling, and embedded systems security. 3rd-year B.Tech in AI & Data Science.
+Security researcher and full-stack developer focused on vulnerability discovery, AI-powered security tooling, and embedded systems security. Final year B.Tech in AI & Data Science.
 
 `DevSec Engineer @ genzi.ai` · `Security Research Engineer @ HackerHub8`
 
