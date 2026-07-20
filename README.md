@@ -69,9 +69,9 @@ Security researcher and full-stack developer focused on vulnerability discovery,
 
 <div align="center">
 
-  <!-- Overview Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=l3tchupkt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3tchupkt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- Overview Stats & Top Languages using Optimized API -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=l3tchupkt&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l3tchupkt&theme=tokyonight" alt="Top Languages" width="48%" />
 
   <br><br>
 
@@ -82,8 +82,6 @@ Security researcher and full-stack developer focused on vulnerability discovery,
 
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=l3tchupkt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f3ff&line=00f3ff&point=ffffff" alt="Contribution Graph" width="98%" />
-
-</div>
 
 ---
 
