@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-l3tchupkt.tech-00f3ff?style=for-the-badge&logo=firefox&logoColor=white)](https://letchupkt.vgrow.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lakshmikanthank-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmikanthank/)
-[![Medium](https://img.shields.io/badge/Medium-@l3tchupkt-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@letchupkt)
+[![Medium](https://img.shields.io/badge/Medium-@letchupkt-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@letchupkt)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-l3tchu__pkt-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/letchupkt)
 
 <br><br>
